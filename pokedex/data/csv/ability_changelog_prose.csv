@@ -51,3 +51,5 @@ ability_changelog_id,local_language_id,effect
 50,9,[]{move:struggle} is unaffected.  []{move:helping-hand} and []{move:defense-curl} are not taken into account.
 51,9,Has no overworld effect.
 52,9,Chance of taking effect is 33%.
+53,9,Lets the bearer hit twice with damaging moves. The second hit has half power.
+54,9,Raises []{type:flying} moves' priority by one stage.
